@@ -1,0 +1,16 @@
+p{
+    text-align: center;
+    color: red;
+    padding-bottom: 50px;
+    
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: bisque;
+    background-image: src('images(5).jpeg');
+}
+footer{
+    padding-bottom: 50%;
+ }
